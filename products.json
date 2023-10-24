@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "Remera",
+    "description": "Talle L",
+    "price": 10000,
+    "thumbnail": "img1",
+    "code": "R1",
+    "stock": 30
+  },
+  {
+    "id": 3,
+    "title": "Pantalon cargo",
+    "description": "Talle XL",
+    "price": 6400,
+    "thumbnail": "img3",
+    "code": "PC1",
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "title": "Piluso",
+    "description": "Unisex",
+    "price": 2000,
+    "thumbnail": "img4",
+    "code": "PIL1",
+    "stock": 100
+  }
+,
+  {
+    "id": 4,
+    "title": "Piluso",
+    "description": "Unisex",
+    "price": 2000,
+    "thumbnail": "img4",
+    "code": "PIL1",
+    "stock": 100
+  }
+]
